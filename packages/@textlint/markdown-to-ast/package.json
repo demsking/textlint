@@ -12,7 +12,7 @@
     "lib/",
     "src/"
   ],
-  "main": "lib/markdown-parser.js",
+  "main": "src/markdown-parser.js",
   "directories": {
     "test": "test/"
   },
